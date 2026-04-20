@@ -3,6 +3,9 @@
 
 A full-stack tourism and travel platform for exploring Indian destinations, itineraries, and experiences.
 
+## 🎥 Demo Video
+https://drive.google.com/file/d/1vTIZLyrhcsvztUmzYJL3sNnWKDO64cF6/view?usp=sharing
+
 ## Tech Stack
 
 - React + Vite on the frontend
